@@ -1,0 +1,6 @@
+@DSEDesafio1API_HostAddress = http://localhost:5034
+
+GET {{DSEDesafio1API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
