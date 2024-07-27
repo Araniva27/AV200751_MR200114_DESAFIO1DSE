@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\desafio1mvc\\desafio1mvc\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FD7AEE-4620-4F2C-BBAF-8352EAD08C2B}|Desafio1MVC\\Desafio1MVC.csproj|solutionrelative:desafio1mvc\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:30:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:29:48.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Productos\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:28:09.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Productos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Details.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Productos\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:27:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Categorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Categorias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Categorias\\Details.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Categorias\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:27:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:26:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Desafio1MVC\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Desafio1MVC\\Views\\Productos\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:26:25.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
