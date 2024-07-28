@@ -15,8 +15,6 @@ namespace Desafio.Entities.Models
         public double Precio { get; set; }
         public int Stock { get; set; }
         public int CategoriaId { get; set; }
-        public string? Descripcion { get; set; }
-
-        public Categoria Categoria { get; set; }
+        public string? Descripcion { get; set; }        
     }
 }

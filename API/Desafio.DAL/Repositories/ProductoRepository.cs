@@ -18,12 +18,12 @@ namespace Desafio.DAL.Repositories
             this.databaseRepository = repository;
         }
 
-        public async Task<Producto> Update(Producto producto)
+        public async Task<Producto> Update(Producto producto, int id)
         {
             string query = "UPDATE Productos SET Stock = @Stock WHERE Id = @Id";
             var parameters = new DynamicParameters();
             parameters.Add("@Stock", producto.Stock);
-            parameters.Add("@Id", producto.Id);
+            parameters.Add("@Id", id);
             return await databaseRepository.Update<Producto>(query, parameters);
         }
     }

@@ -3,53 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{794BDD46-760C-49D5-9A79-28C24F605390}|..\\Desafio.Common\\Desafio.Common.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B3447FD-C6CC-4D18-8B24-16CF76586BE2}|..\\Desafio.Entities\\Desafio.Entities.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.entities\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B3447FD-C6CC-4D18-8B24-16CF76586BE2}|..\\Desafio.Entities\\Desafio.Entities.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.entities\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D4D3EDC-2B67-4BD3-B56D-72B9843B803C}|..\\Desafio.BL\\Desafio.BL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.bl\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D4D3EDC-2B67-4BD3-B56D-72B9843B803C}|..\\Desafio.BL\\Desafio.BL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.bl\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B3447FD-C6CC-4D18-8B24-16CF76586BE2}|..\\Desafio.Entities\\Desafio.Entities.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.entities\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4D3EDC-2B67-4BD3-B56D-72B9843B803C}|..\\Desafio.BL\\Desafio.BL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.bl\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D4D3EDC-2B67-4BD3-B56D-72B9843B803C}|..\\Desafio.BL\\Desafio.BL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.bl\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D4D3EDC-2B67-4BD3-B56D-72B9843B803C}|..\\Desafio.BL\\Desafio.BL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.bl\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4D3EDC-2B67-4BD3-B56D-72B9843B803C}|..\\Desafio.BL\\Desafio.BL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.bl\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -58,7 +30,29 @@
       "AbsoluteMoniker": "D:0:0:{06DD3E83-E11E-472C-9387-DB8968CD12ED}|..\\Desafio.DAL\\Desafio.DAL.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.dal\\interfaces\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B3447FD-C6CC-4D18-8B24-16CF76586BE2}|..\\Desafio.Entities\\Desafio.Entities.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.entities\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{794BDD46-760C-49D5-9A79-28C24F605390}|..\\Desafio.Common\\Desafio.Common.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3447FD-C6CC-4D18-8B24-16CF76586BE2}|..\\Desafio.Entities\\Desafio.Entities.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.entities\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3447FD-C6CC-4D18-8B24-16CF76586BE2}|..\\Desafio.Entities\\Desafio.Entities.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\desafio.entities\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|c:\\users\\manuel araniva\\documents\\ciclo 02 2024\\dse\\laboratorio\\av200751_mr200114_desafio1dse\\api\\dsedesafio1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33EAD0F3-E70C-4309-82C0-C360220F376C}|DSEDesafio1API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,37 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoriaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\DTOs\\CategoriaDTO.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.Entities\\DTOs\\CategoriaDTO.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\DTOs\\CategoriaDTO.cs",
-              "RelativeToolTip": "..\\Desafio.Entities\\DTOs\\CategoriaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:53:43.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
-              "RelativeToolTip": "..\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAnwAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:56:23.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "..\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:36:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Services\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "..\\Desafio.DAL\\Services\\ServiceCollectionExtensions.cs",
@@ -111,158 +92,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatabaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
-              "RelativeToolTip": "..\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwBoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T18:10:19.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.Entities\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\Models\\Producto.cs",
-              "RelativeToolTip": "..\\Desafio.Entities\\Models\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:46:15.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:44:05.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T22:12:39.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Common\\AppSettings.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.Common\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Common\\AppSettings.cs",
-              "RelativeToolTip": "..\\Desafio.Common\\AppSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:43:34.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAqwB4AAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T21:59:47.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Services\\ProductoService.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.BL\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Services\\ProductoService.cs",
-              "RelativeToolTip": "..\\Desafio.BL\\Services\\ProductoService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAADwvx4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T19:07:50.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "AutomapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Automapper\\AutomapperProfile.cs",
               "RelativeDocumentMoniker": "..\\Desafio.BL\\Automapper\\AutomapperProfile.cs",
               "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Automapper\\AutomapperProfile.cs",
               "RelativeToolTip": "..\\Desafio.BL\\Automapper\\AutomapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T21:45:06.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.BL\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "..\\Desafio.BL\\Interfaces\\IProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:53:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.BL\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Services\\ProductoService.cs",
+              "RelativeToolTip": "..\\Desafio.BL\\Services\\ProductoService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:07:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Services\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "..\\Desafio.BL\\Services\\ServiceCollectionExtensions.cs",
               "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Services\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "..\\Desafio.BL\\Services\\ServiceCollectionExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T21:48:58.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
+              "Title": "DatabaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
+              "RelativeToolTip": "..\\Desafio.DAL\\Repositories\\DatabaseRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:10:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Interfaces\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "..\\Desafio.DAL\\Interfaces\\IProductoRepository.cs",
               "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Interfaces\\IProductoRepository.cs",
               "RelativeToolTip": "..\\Desafio.DAL\\Interfaces\\IProductoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T18:24:28.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
-              "RelativeToolTip": "..\\Desafio.DAL\\Repositories\\ProductoRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAvAAAA",
+              "DocumentIndex": 8,
+              "Title": "IDatabaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
+              "RelativeToolTip": "..\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T18:36:41.054Z",
+              "WhenOpened": "2024-07-27T18:06:32.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Interfaces\\IProductoService.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.BL\\Interfaces\\IProductoService.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.BL\\Interfaces\\IProductoService.cs",
-              "RelativeToolTip": "..\\Desafio.BL\\Interfaces\\IProductoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Common\\AppSettings.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.Common\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Common\\AppSettings.cs",
+              "RelativeToolTip": "..\\Desafio.Common\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T18:53:51.612Z",
+              "WhenOpened": "2024-07-27T17:43:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "..\\Desafio.Entities\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:56:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\Desafio.Entities\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\Models\\Producto.cs",
+              "RelativeToolTip": "..\\Desafio.Entities\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:46:15.198Z",
               "EditorCaption": ""
             },
             {
@@ -280,29 +235,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDatabaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
-              "RelativeToolTip": "..\\Desafio.DAL\\Interfaces\\IDatabaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwB0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T18:06:32.739Z",
+              "WhenOpened": "2024-07-27T21:59:47.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "..\\Desafio.Entities\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\Desafio.Entities\\Models\\Categoria.cs",
-              "RelativeToolTip": "..\\Desafio.Entities\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:52:16.269Z",
+              "WhenOpened": "2024-07-27T17:44:05.727Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\API\\DSEDesafio1API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T22:12:39.072Z"
             }
           ]
         }

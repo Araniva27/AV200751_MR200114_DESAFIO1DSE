@@ -8,6 +8,6 @@ namespace Desafio.DAL.Interfaces
 {
     public interface IProductoRepository
     {
-        public Task<Producto> Update(Producto producto);
+        public Task<Producto> Update(Producto producto, int id);
     }
 }

@@ -10,6 +10,6 @@ namespace Desafio.BL.Interfaces
 {
     public interface IProductoService
     {
-        public Task<ProductoDTO> Update(ProductoDTO producto);
+        public Task<ProductoDTO> Update(ProductoDTO producto, int id);
     }
 }

@@ -10,7 +10,7 @@ namespace Desafio.Entities.DTOs
 {
     public class ProductoDTO
     {
-        public int Codigo { get; set; }
+        //public int Codigo { get; set; }
 
         //[Required(ErrorMessage = "El nombre del producto es requerido")]
         //[MaxLength(50,ErrorMessage = "El nombre del producto no puede contener más de 50 caracteres")]

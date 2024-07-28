@@ -14,7 +14,7 @@ namespace Desafio.BL.Automapper
         public AutomapperProfile()
         {
             CreateMap<Producto, ProductoDTO>()
-                .ForMember(destination => destination.Codigo, option => option.MapFrom(source => source.Id))
+                //.ForMember(destination => destination.Codigo, option => option.MapFrom(source => source.Id))
                 .ForMember(destination => destination.StockProducto, option => option.MapFrom(source => source.Stock))
                 .ReverseMap();
         }

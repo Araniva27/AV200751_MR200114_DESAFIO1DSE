@@ -24,12 +24,12 @@ namespace Desafio.BL.Services
             this.mapper = mapper;
         }
 
-        public async Task<ProductoDTO> Update(ProductoDTO model)
+        public async Task<ProductoDTO> Update(ProductoDTO model, int id)
         {
             try
             {
                 var entity = mapper.Map<ProductoDTO, Producto>(model);
-                var result = await repository.Update(entity);
+                var result = await repository.Update(entity, id);
                 return mapper.Map<Producto, ProductoDTO>(result);
             }catch (Exception ex)
             {

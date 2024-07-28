@@ -27,7 +27,7 @@ namespace DSEDesafio1API.Controllers
             {
                 return (IActionResult)this.BadRequest();
             }
-            ProductoDTO result = await this.service.Update(producto);
+            ProductoDTO result = await this.service.Update(producto, id);
             return (result != null) ? (IActionResult)this.Ok(result) : (IActionResult)this.BadRequest();
         }
         
