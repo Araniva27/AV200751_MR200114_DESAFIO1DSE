@@ -5,6 +5,7 @@ namespace Desafio1MVC.Models.Seeds
 {
     public class ProductoSeed : IEntityTypeConfiguration<Producto>
     {
+        // Método que configura los datos iniciales de la entidad Producto.
         public void Configure(EntityTypeBuilder<Producto> builder)
         {
             builder.HasData(

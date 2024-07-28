@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj": {}
+    "C:\\Users\\fabio\\Documents\\GitHub\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj": {
+    "C:\\Users\\fabio\\Documents\\GitHub\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\Documents\\GitHub\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj",
         "projectName": "Desafio1MVC",
-        "projectPath": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj",
-        "packagesPath": "C:\\Users\\Manuel Araniva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\obj\\",
+        "projectPath": "C:\\Users\\fabio\\Documents\\GitHub\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\Desafio1MVC.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabio\\Documents\\GitHub\\AV200751_MR200114_DESAFIO1DSE\\Desafio1MVC\\Desafio1MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Manuel Araniva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

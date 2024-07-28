@@ -3,8 +3,10 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Desafio1MVC.Models.Seeds
 {
+    // Configuración inicial (seeding) para la entidad Categoria.
     public class CategoriaSeed : IEntityTypeConfiguration<Categoria>
     {
+        // Método que configura los datos iniciales de la entidad Categoria.
         public void Configure(EntityTypeBuilder<Categoria> builder)
         {
             builder.HasData(

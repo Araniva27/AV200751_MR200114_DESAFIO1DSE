@@ -13,6 +13,7 @@ namespace Desafio1MVC.Controllers
     {
         private readonly InventarioDbContext _context;
 
+        // Constructor que inyecta el contexto de la base de datos.
         public CategoriasController(InventarioDbContext context)
         {
             _context = context;
