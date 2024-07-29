@@ -6,7 +6,7 @@ namespace Desafio1MVC.Models
     {
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Es neceario ingresar el nombre de la categoria")]
+        [Required(ErrorMessage = "Es necesario ingresar el nombre de la categoria")]
         [StringLength(50, MinimumLength = 4)]
         public string Nombre { get; set; }
 
